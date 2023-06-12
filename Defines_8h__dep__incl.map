@@ -1,0 +1,9 @@
+<map id="/home/digitech/Desktop/LibOS/Includes/libos/Defines.h" name="/home/digitech/Desktop/LibOS/Includes/libos/Defines.h">
+<area shape="rect" id="node1" title="defines hold function &amp; macros for the parts of the library to work" alt="" coords="307,5,484,61"/>
+<area shape="rect" id="node2" href="$FileIO_8h.html" title="FileIO is a simple cross&#45;platform API for reading and writing files from the filesystem." alt="" coords="5,109,183,165"/>
+<area shape="rect" id="node4" href="$NetIO_8h.html" title="NETIO is a simple cross&#45;platform API for accessing UDP and TCP sockets." alt="" coords="207,109,384,165"/>
+<area shape="rect" id="node5" href="$Window_8h.html" title="WINDOW is a simple cross&#45;platform API for accessing the native platform window, keyboard and mouse io..." alt="" coords="408,109,585,165"/>
+<area shape="rect" id="node7" href="$Error_8h.html" title="for printing and system errors" alt="" coords="609,109,787,165"/>
+<area shape="rect" id="node3" href="$Config_8h.html" title="this extention allows the lib user to create and use configs without the hasl of knowing platform con..." alt="" coords="5,213,183,269"/>
+<area shape="rect" id="node6" href="$NativeWindow_8h_source.html" title=" " alt="" coords="408,213,585,269"/>
+</map>

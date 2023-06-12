@@ -1,0 +1,4 @@
+<map id="losWindowInfo" name="losWindowInfo">
+<area shape="rect" id="node1" title="losWindowInfo is the window creation struct we pass this into the creation function for the library t..." alt="" coords="5,95,124,121"/>
+<area shape="rect" id="node2" href="$structlosSize.html" title="losSize is used to represent a size of a window or position of this mouse" alt="" coords="31,5,99,32"/>
+</map>
